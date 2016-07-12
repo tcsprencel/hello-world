@@ -1,2 +1,4 @@
 # hello-world
-When I was a GitHub n00b
+
+My name is T.C. Sprencel and I love some things, hate other things.
+
